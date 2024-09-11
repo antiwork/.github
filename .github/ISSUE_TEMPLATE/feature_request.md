@@ -16,19 +16,13 @@ Notion:
 
 ### Why
 
-Replace this with a reason for the changes you are making.
+Replace this with the intention behind these changes.
 
 ### Checklist
 
 - [ ] I have used proper English within the PR title and description
-- [ ] I have added screenshots or videos to the PR description, making it easy to review the functional changes
-- [ ] I have added enough test cases to protect against regressions and I will notify QA Wolf to add/update [visual tests](https://github.com/gumroad/web/blob/main/docs/testing.md#visual-testing) if needed
 - [ ] I have linked to Figma if there's a corresponding design
 - [ ] I have linked to Notion if there's a corresponding scope
-- [ ] I have self-reviewed the changes and have added explanatory comments as needed, to save my reviewer as much time as possible
+- [ ] I have done my best to save the reader(s) time/energy
 
-### Post-deploy
-
-- [ ] List any tasks that should be completed (e.g., scripts that need to be run) upon deployment
-
-Remove this section if there are none, as well as any other parts of the issue that aren't relevant to shipping this particular thing.
+(Remove this section and anything else that isn't essential.)
