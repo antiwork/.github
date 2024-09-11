@@ -23,6 +23,6 @@ Replace this with the intention behind these changes.
 - [ ] I have used proper English within the PR title and description
 - [ ] I have linked to Figma if there's a corresponding design
 - [ ] I have linked to Notion if there's a corresponding scope
-- [ ] I have done my best to save the reader(s) time/energy
+- [ ] I have done my best to save my reader(s) time/energy
 
 (Remove this section and anything else that isn't essential.)
