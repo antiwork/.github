@@ -5,7 +5,7 @@ Gumroad is a platform that helps creators sell their products directly to their 
 
 ## 🌈 Contribution Guidelines
 We love our community and welcome contributions! Here's how you can get involved (soon):
-- Check out our [open issues](https://github.com/gumroad/issues)
+- Check out our [open issues](https://github.com/gumroad/gumroad/issues)
 
 ## 👩‍💻 Useful Resources
 - [Gumroad Help Center](https://help.gumroad.com/)
