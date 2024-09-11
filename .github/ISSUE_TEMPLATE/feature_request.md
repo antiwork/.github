@@ -1,33 +1,21 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Bug report
+about: Create a report to help us improve
 title: ""
 labels: ""
 assignees: ""
 ---
 
-### What
+## **What happened**
 
-Replace this with a description of the changes that you are making. To help reviewers easily understand the changes, please add before/after screenshots or a short demo video recording of the feature/bugfix here.
+A clear and concise description of what the bug is. If helpful, add screenshots.
 
-Figma: 
-Notion: 
+**Additional context**
 
-### Why
-
-Replace this with a reason for the changes you are making.
-
-### Checklist
-
-- [ ] I have used proper English within the PR title and description
-- [ ] I have added screenshots or videos to the PR description, making it easy to review the functional changes
-- [ ] I have added enough test cases to protect against regressions and I will notify QA Wolf to add/update [visual tests](https://github.com/gumroad/web/blob/main/docs/testing.md#visual-testing) if needed
-- [ ] I have linked to Figma if there's a corresponding design
-- [ ] I have linked to Notion if there's a corresponding scope
-- [ ] I have self-reviewed the changes and have added explanatory comments as needed, to save my reviewer as much time as possible
-
-### Post-deploy
-
-- [ ] List any tasks that should be completed (e.g., scripts that need to be run) upon deployment
-
-Remove this section if there are none, as well as any other parts of the issue that aren't relevant to shipping this particular thing.
+- URL:
+- User IDs:
+- Device:
+- OS:
+- Browser:
+- Version:
+- Suggested assignee:
