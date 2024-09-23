@@ -6,22 +6,18 @@ labels: ""
 assignees: ""
 ---
 
-### What
+**What**
 
-Replace this with a description of the changes that you are making. To help reviewers easily understand the changes, please add before/after screenshots or a short demo video recording of the feature/bugfix here.
+- [ ] Atomic change #1
+- [ ] Atomic change #2
 
-Figma: 
+**Why**
 
-Notion: 
+- Reason 1 for this change
+- Reason 2 for this change
 
-### Why
+Don't forget to:
 
-Replace this with the intention behind these changes.
-
-### Checklist
-
-- [ ] I have linked to Figma if there's a corresponding design
-- [ ] I have linked to Notion if there's a corresponding scope
-- [ ] I have done my best to save my reader(s) time/energy
-
-(Remove this section and anything else that isn't essential.)
+- [ ] I have self-reviewed the changes and have added explanatory comments as needed, to save my reviewer as much time as possible
+- [ ] List any post-deploy tasks that should be completed (e.g., scripts that need to be run) upon deployment
+- [ ] Customize the card completely to save others time/energy
