@@ -1,4 +1,4 @@
-# Hi there, we're Anti-Work! 👋
+# Hi there, we're [Anti-Work](https://antiwork.com)! 👋
 
 ## 🙋‍♀️ Automating the boring stuff that ran Gumroad.
 Anti-Work emerged from Gumroad's mission to automate repetitive tasks. In 2025, we're taking a bold step by open-sourcing our entire suite of tools that helped run and scale Gumroad. We believe in making powerful automation accessible to everyone.
