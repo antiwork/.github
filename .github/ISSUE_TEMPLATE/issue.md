@@ -16,3 +16,7 @@ What are we shipping? (Expected behavior change)
 Why are we shipping it? (Intention behind behavior change)
 
 The less words the better, but "save others time" – provide all of the necessary context in order to grok the issue and contribute.
+
+### How
+
+What's the right approach, atomically, to ship this?
