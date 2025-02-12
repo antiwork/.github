@@ -9,9 +9,9 @@ assignees: ''
 
 What are we shipping? (Expected behavior change)
 
-- [] What's the right approach,
-- [] atomically,
-- [] to ship this?
+- [ ] What's the right approach,
+- [ ] atomically,
+- [ ] to ship this?
 
 ### Why
 
