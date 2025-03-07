@@ -12,5 +12,5 @@ Antiwork emerged from Gumroad's mission to automate repetitive tasks. In 2025, w
 
 ## 🌈 Contribution Guidelines
 We love our community and welcome contributions!
-- Check out our [open issues](https://github.com/gumroad/shortest/issues) for Shortest
-- More coming soon as we open source everything in 2025
+
+If bounties are mentioned as part of a task, please treat that as a nice surprise versus an expectation of compensation–until we figure things out!
