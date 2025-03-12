@@ -13,4 +13,4 @@ Antiwork emerged from Gumroad's mission to automate repetitive tasks. In 2025, w
 ## 🌈 Contribution Guidelines
 We love our community and welcome contributions!
 
-If bounties are mentioned as part of a task, please treat that as a nice surprise versus an expectation of compensation–until we figure things out!
+If a bonus is mentioned as part of a task, please treat it as a nice surprise versus an expectation of compensation–until we figure things out!
