@@ -5,7 +5,7 @@ Antiwork emerged from Gumroad's mission to automate repetitive tasks. In 2025, w
 
 ## 🚀 Our Projects
 - **Shortest**: Natural language AI testing platform - [Contributions welcome](https://github.com/antiwork/shortest)
-- **Flexile**: Team and shareholder management system
+- **Flexile**: Team and shareholder management system - [Contributions welcome](https://github.com/antiwork/flexile)
 - **Gumroad**: Sell your stuff. See what sticks
 - **Helper**: Customer support agents - [Contributions welcome](https://github.com/antiwork/helper)
 - **Iffy**: Keep your product clean - [Contributions welcome](https://github.com/antiwork/iffy)
