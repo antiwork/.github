@@ -11,6 +11,7 @@ Antiwork emerged from Gumroad's mission to automate repetitive tasks. In 2025, w
 - **Iffy**: Keep your product clean - [Contributions welcome](https://github.com/antiwork/iffy)
 
 ## 🌈 Contribution Guidelines
+
 We love our community and welcome contributions!
 
-If a bonus is mentioned as part of a task, please treat it as a nice surprise versus an expectation of compensation–until we figure things out!
+We reward bonuses every quarter based on contributions. You can choose a % of it to take as stock options.
