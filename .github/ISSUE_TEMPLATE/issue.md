@@ -1,20 +1,16 @@
 ---
 name: Issue
-about: To help with following our Shipping Pipeline process
+about: To help save others time
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-What are we shipping? (Expected behavior change)
+### What
 
-- [ ] What's the right approach,
-- [ ] atomically,
-- [ ] to ship this?
+Brief sentence, screenshots, video, v0 prototype, etc
 
 ### Why
 
-Why are we shipping it? (Intention behind behavior change)
-
-The less words the better, but "save others time" – provide all of the necessary context in order to grok the issue and contribute.
+...
