@@ -16,6 +16,6 @@ Antiwork emerged from [Gumroad](https://github.com/antiwork/gumroad)'s mission t
 
 We love our community and welcome contributions!
 
-We reward bonuses every quarter based on contributions. You can choose a % of it to take as stock options.
+We reward bounties based on contributions. You can choose a % of it to take as stock options at our last 409a valuation.
 
-Looking for guidance or want to connect? [Join our Telegram group](https://t.me/+vg31gHiNc3c0OThh)
+Looking for guidance? [Join our Antiwork OSS Telegram group](https://t.me/+vg31gHiNc3c0OThh)
