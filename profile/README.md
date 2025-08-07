@@ -1,10 +1,11 @@
-// Start of Selection
-# Hi there, we're [Antiwork](https://antiwork.com)! 👋
+# [Antiwork](https://antiwork.com)
 
 ## 🙋‍♀️ On a mission to make work play.
-Antiwork emerged from [Gumroad](https://github.com/antiwork/gumroad)'s mission to automate repetitive tasks. In 2025, we're taking a bold step by open-sourcing our entire suite of tools that helped run and scale Gumroad. We believe in making powerful automation accessible to everyone.
+
+Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, we open-sourced everything - our entire suite of tools that helps run and scale Gumroad.
 
 ## 🚀 Our Projects
+
 - [Flexile](https://github.com/antiwork/flexile): Contractor payments as easy as 1-2-3
 - [Gumboard](https://github.com/antiwork/gumboard): Keep on top of your team's to-dos
 - [Gumroad](https://github.com/antiwork/gumroad): Sell your stuff and see what sticks
