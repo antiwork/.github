@@ -51,6 +51,38 @@ We don't assign issues to contributors until they have a history of contribution
 - Write TypeScript for all code
 - Use Prisma best practices for database operations
 
+### TypeScript and React Guidelines
+
+- Write TypeScript for all code
+- Follow React best practices and use functional components
+- Use lowerCamelCase for component file names (e.g., `conversationList.tsx`)
+- Design for both light and dark mode
+- Consider mobile and desktop devices (medium, large, and extra large breakpoints)
+- No explanatory comments unless explicitly needed
+
+### Testing Guidelines
+
+- Write descriptive test names that explain the behavior being tested
+- Keep tests independent and isolated
+- For API endpoints, test response status, format, and content
+- Use factories for test data instead of creating objects directly
+- Test both happy path and edge cases
+- Use Vitest for unit tests and Playwright for end-to-end tests
+- Fix existing tests if required, but don't add new tests unless explicitly told to do so
+
+### Monorepo Structure
+
+When working with monorepo projects:
+- Use pnpm workspaces for package management
+- Refer to individual package CONTRIBUTING.md files for package-specific guidelines
+- Follow existing code patterns within each package
+
+### Development Practices
+
+- Don't modify config files or package.json unless explicitly told to do so
+- Use clear, descriptive variable names
+- Follow existing code patterns in the repository
+
 ## License
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE.md).
