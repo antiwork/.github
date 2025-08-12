@@ -38,6 +38,8 @@ We don't assign issues to contributors until they have a history of contribution
 - The PR will be merged once you have the sign-off of at least one other developer
 - Use clear, descriptive variable names
 - Follow existing code patterns in the repository
+- Newlines at end of files, always
+- Add explanatory comments for race conditions and other unintuitive coding patterns
 
 ### Front-end
 
@@ -46,6 +48,12 @@ We don't assign issues to contributors until they have a history of contribution
 - Write TypeScript for all code
 - Follow Next.js and React conventions
 - Use UpperCamelCase for component file names (e.g., `ConversationList.tsx`)
+- Always use the latest version of TypeScript, React, and Next.js
+- Use sentence case headers and buttons, not title case
+- Do not use `React.FC`. Use the following syntax: `const Component = ({ prop1, prop2 }: { prop1: string; prop2: number }) => { ... }`
+- When building UI, use existing components from `components/` when available: `Button`, `Input`, `DataTable`, `Placeholder`, `ComboBox`, `NumberInput`, `MutationButton`, `Dialog`, `Form` components, etc.
+- When creating new components using Shadcn, use the `canary` version over the `latest` version
+- Forms for adding new objects to the database should inherit values from the last object added to the table
 
 ### Back-end
 
@@ -53,6 +61,7 @@ We don't assign issues to contributors until they have a history of contribution
 - Use clear, descriptive variable names
 - Write TypeScript for all code
 - Use Prisma best practices for database operations
+- Any changes to the back-end database schema must be reflected in any existing frontend schema files for type safety
 
 ### Design
 
