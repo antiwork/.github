@@ -43,6 +43,17 @@ We don't assign issues to contributors until they have a history of contribution
 - Use clear, descriptive variable names
 - Write TypeScript for all code
 - Follow Next.js and React conventions
+- Always use the latest version of TypeScript, React, and Next.js
+- Use sentence case headers and buttons, not title case
+- Do not use `React.FC`. Use the following syntax: `const Component = ({ prop1, prop2 }: { prop1: string; prop2: number }) => { ... }`
+- When building UI, use existing components from `components/` when available: `Button`, `Input`, `DataTable`, `Placeholder`, `ComboBox`, `NumberInput`, `MutationButton`, `Dialog`, `Form` components, etc.
+- When creating new components using Shadcn, use the `canary` version over the `latest` version
+- Add page to `app/**/page.tsx`
+- Add any components to `components/**/*.tsx`
+- Add tRPC API routes to `trpc/routes/**/index.ts` and then add those to `trpc/server.ts`
+- Forms for adding new objects to the database should inherit values from the last object added to the table
+- Newlines at end of files, always
+- No explanatory comments in code
 
 ### Back-end
 
@@ -50,6 +61,9 @@ We don't assign issues to contributors until they have a history of contribution
 - Use clear, descriptive variable names
 - Write TypeScript for all code
 - Use Prisma best practices for database operations
+- Create API handlers using tRPC API routes that follow REST principles
+- Any changes to the database schema must be reflected in the frontend schema file for type safety
+- Add a `TODO (techdebt)` comment to document refactors that should be made in the future
 
 ## License
 
