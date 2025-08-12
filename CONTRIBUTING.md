@@ -53,7 +53,7 @@ We don't assign issues to contributors until they have a history of contribution
 - Add tRPC API routes to `trpc/routes/**/index.ts` and then add those to `trpc/server.ts`
 - Forms for adding new objects to the database should inherit values from the last object added to the table
 - Newlines at end of files, always
-- No explanatory comments in code
+- Add explanatory comments for race conditions and other unintuitive coding patterns
 
 ### Back-end
 
@@ -61,9 +61,7 @@ We don't assign issues to contributors until they have a history of contribution
 - Use clear, descriptive variable names
 - Write TypeScript for all code
 - Use Prisma best practices for database operations
-- Create API handlers using tRPC API routes that follow REST principles
-- Any changes to the database schema must be reflected in the frontend schema file for type safety
-- Add a `TODO (techdebt)` comment to document refactors that should be made in the future
+- Any changes to the back-end database schema must be reflected in any existing frontend schema files for type safety
 
 ## License
 
