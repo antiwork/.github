@@ -26,16 +26,18 @@ We don't assign issues to contributors until they have a history of contribution
 
 ### General best practices
 
-1. Update documentation if you're changing behavior
-2. Add or update tests for your changes
-3. Include screenshots of your test suite passing locally
-4. Make sure all tests pass
-5. Request a review from maintainers
-6. After reviews begin, avoid force-pushing to your branch
+- Update documentation if you're changing behavior
+- Add or update tests for your changes
+- Include screenshots of your test suite passing locally
+- Make sure all tests pass
+- Request a review from maintainers
+- After reviews begin, avoid force-pushing to your branch
    - Force-pushing rewrites history and makes review threads hard to follow
    - Don't worry about messy commits - we squash everything when merging to main
-7. Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
-8. The PR will be merged once you have the sign-off of at least one other developer
+- Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
+- The PR will be merged once you have the sign-off of at least one other developer
+- Use clear, descriptive variable names
+- Follow existing code patterns in the repository
 
 ### Front-end
 
@@ -43,6 +45,7 @@ We don't assign issues to contributors until they have a history of contribution
 - Use clear, descriptive variable names
 - Write TypeScript for all code
 - Follow Next.js and React conventions
+- Use UpperCamelCase for component file names (e.g., `ConversationList.tsx`)
 
 ### Back-end
 
@@ -51,14 +54,10 @@ We don't assign issues to contributors until they have a history of contribution
 - Write TypeScript for all code
 - Use Prisma best practices for database operations
 
-### TypeScript and React Guidelines
+### Design
 
-- Write TypeScript for all code
-- Follow React best practices and use functional components
-- Use lowerCamelCase for component file names (e.g., `conversationList.tsx`)
 - Design for both light and dark mode
-- Consider mobile and desktop devices (medium, large, and extra large breakpoints)
-- No explanatory comments unless explicitly needed
+- Consider mobile and desktop devices (small, medium, large, and extra large breakpoints)
 
 ### Testing Guidelines
 
@@ -68,20 +67,6 @@ We don't assign issues to contributors until they have a history of contribution
 - Use factories for test data instead of creating objects directly
 - Test both happy path and edge cases
 - Use Vitest for unit tests and Playwright for end-to-end tests
-- Fix existing tests if required, but don't add new tests unless explicitly told to do so
-
-### Monorepo Structure
-
-When working with monorepo projects:
-- Use pnpm workspaces for package management
-- Refer to individual package CONTRIBUTING.md files for package-specific guidelines
-- Follow existing code patterns within each package
-
-### Development Practices
-
-- Don't modify config files or package.json unless explicitly told to do so
-- Use clear, descriptive variable names
-- Follow existing code patterns in the repository
 
 ## License
 
