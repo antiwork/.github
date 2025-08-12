@@ -35,6 +35,7 @@ We don't assign issues to contributors until they have a history of contribution
    - Force-pushing rewrites history and makes review threads hard to follow
    - Don't worry about messy commits - we squash everything when merging to main
 - Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
+- Code must be self-reviewed, i.e any code that isn't pretty obvious to a new reader why it's added should be commented for why it was added/changed/removed/moved elsewhere etc
 - The PR will be merged once you have the sign-off of at least one other developer
 - Use clear, descriptive variable names
 - Follow existing code patterns in the repository
