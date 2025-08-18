@@ -27,19 +27,15 @@ We don't assign issues to contributors until they have a history of contribution
 ### General best practices
 
 - Update documentation if you're changing behavior
-- Add or update tests for your changes
-- Include screenshots of your test suite passing locally
-- Make sure all tests pass
-- Request a review from maintainers
+- Add or update tests for your changes–any functional changes should reflect in updated/new end-to-end tests
+- Include screenshots of your test suite passing locally if the build doesn't run automatically
+- Make sure **all** tests pass
+- Request a review from one maintainer
 - After reviews begin, avoid force-pushing to your branch
    - Force-pushing rewrites history and makes review threads hard to follow
    - Don't worry about messy commits - we squash everything when merging to main
-- Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
-- The PR will be merged once you have the sign-off of at least one other developer
-- Use clear, descriptive variable names
-- Follow existing code patterns in the repository
+- **Must**: Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
 - Newlines at end of files, always
-- Add explanatory comments for race conditions and other unintuitive coding patterns
 
 ### Front-end
 
@@ -49,11 +45,10 @@ We don't assign issues to contributors until they have a history of contribution
 - Follow Next.js and React conventions
 - Use UpperCamelCase for component file names (e.g., `ConversationList.tsx`)
 - Always use the latest version of TypeScript, React, and Next.js
-- Use sentence case headers and buttons, not title case
+- Use sentence case headers and buttons, not title case (Add board is good, Add Board is bad)
 - Do not use `React.FC`. Use the following syntax: `const Component = ({ prop1, prop2 }: { prop1: string; prop2: number }) => { ... }`
 - When building UI, use existing components from `components/` when available: `Button`, `Input`, `DataTable`, `Placeholder`, `ComboBox`, `NumberInput`, `MutationButton`, `Dialog`, `Form` components, etc.
 - When creating new components using Shadcn, use the `canary` version over the `latest` version
-- Forms for adding new objects to the database should inherit values from the last object added to the table
 
 ### Back-end
 
@@ -63,10 +58,11 @@ We don't assign issues to contributors until they have a history of contribution
 - Use Prisma best practices for database operations
 - Any changes to the back-end database schema must be reflected in any existing frontend schema files for type safety
 
-### Design
+### Design / UX
 
 - Design for both light and dark mode
 - Consider mobile and desktop devices (small, medium, large, and extra large breakpoints)
+- Forms for adding new objects to the database should inherit values from the last object added to the table
 
 ### Testing Guidelines
 
@@ -75,7 +71,6 @@ We don't assign issues to contributors until they have a history of contribution
 - For API endpoints, test response status, format, and content
 - Use factories for test data instead of creating objects directly
 - Test both happy path and edge cases
-- Use Vitest for unit tests and Playwright for end-to-end tests
 
 ## License
 
