@@ -36,7 +36,6 @@ We don't assign issues to contributors until they have a history of contribution
    - Don't worry about messy commits - we squash everything when merging to main
 - **Must**: Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
 - **Must**: Pull requests' code should be 100% related to the issue being solved. Anything unrelated should be moved into its own atomic PR
-- **Must**: Comments should be left for any code
 - Newlines at end of files, always
 
 ### Front-end
