@@ -73,6 +73,47 @@ We don't assign issues to contributors until they have a history of contribution
 - Use factories for test data instead of creating objects directly
 - Test both happy path and edge cases
 
+## AI Assistance Notice
+
+We require disclosure of AI assistance in pull requests to maintain transparency and help reviewers understand the contribution process. This helps us:
+
+- Understand the development process behind contributions
+- Provide appropriate review and feedback
+- Maintain code quality standards
+- Build trust within our contributor community
+
+### Disclosure Requirements
+
+When submitting a pull request that involved AI assistance (such as GitHub Copilot, ChatGPT, Claude, or similar tools), please include a brief note in your PR description indicating:
+
+1. **What AI tools were used** (if any)
+2. **How they were used** (code generation, debugging, documentation, etc.)
+3. **What portions of the contribution involved AI assistance**
+
+### Examples
+
+**Good disclosure examples:**
+- "Used GitHub Copilot for boilerplate code generation in the new authentication module"
+- "ChatGPT helped debug the memory leak in the connection pool implementation"
+- "Claude assisted with writing unit tests for the new API endpoints"
+- "No AI assistance was used in this contribution"
+
+**What doesn't need disclosure:**
+- Standard IDE features (autocomplete, syntax highlighting, etc.)
+- Search engines and documentation lookup
+- Stack Overflow and similar Q&A sites
+
+### Why We Ask
+
+This policy isn't about restricting AI use—we recognize AI tools can be valuable development aids. Instead, it's about transparency and helping our maintainers provide the best possible review. Knowing how a contribution was developed helps us:
+
+- Focus review attention appropriately
+- Provide better feedback and mentorship
+- Understand patterns in our codebase development
+- Make informed decisions about our development practices
+
+Thank you for helping us maintain a transparent and collaborative development environment!
+
 ## License
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE.md).
