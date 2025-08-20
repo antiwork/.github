@@ -96,7 +96,7 @@ When submitting a pull request that involved AI assistance (such as GitHub Copil
 - "Used GitHub Copilot for boilerplate code generation in the new authentication module"
 - "ChatGPT helped debug the memory leak in the connection pool implementation"
 - "Claude assisted with writing unit tests for the new API endpoints"
-- "No AI assistance was used in this contribution"
+- "No AI was used to generate any of this code"
 
 **What doesn't need disclosure:**
 - Standard IDE features (autocomplete, syntax highlighting, etc.)
