@@ -1,32 +1,20 @@
 # Contributing to Antiwork Projects
 
-## Commenting on GitHub
+Respect others by using professional, easy-to-read English that transcends cultures.
 
-Use native-sounding English in all communication with no excessive capitalization (e.g HOW IS THIS GOING), multiple question marks (how's this going???), grammatical errors (how's dis going), or typos (thnx fr update).
-- ❌ Before: "is this still open ?? I am happy to work on it ??"
-- ✅ After: "Is this actively being worked on? I've started work on it here…"
-
-Check existing discussions/issues/PRs before creating new ones. Start a discussion for questions or ideas.
+That means no excessive capitalization (e.g HOW IS THIS GOING), multiple question marks (how's this going???), grammatical errors (how's dis going), or typos (thnx fr update).
 
 ## Issues
-
-A great bug report includes:
-
-- A quick summary and/or background
-- Steps to reproduce
-  - Be specific!
-  - Give sample code if you can
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
 We don't assign issues to contributors until they have a history of contributions to the project.
 
 ## Pull Requests (code)
 
+Pull Requests should close open issues.
+
 ### General best practices
 
-- Update documentation if you're changing behavior
+- Update documentation as you go
 - Add or update tests for your changes–any functional changes should reflect in updated/new end-to-end tests
 - Include screenshots of your test suite passing locally if the build doesn't run automatically
 - Make sure **all** tests pass
@@ -35,8 +23,9 @@ We don't assign issues to contributors until they have a history of contribution
    - Force-pushing rewrites history and makes review threads hard to follow
    - Don't worry about messy commits - we squash everything when merging to main
 - **Must**: Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
-- **Must**: Pull requests' code should be 100% related to the issue being solved. Anything unrelated should be moved into its own atomic PR
-- Newlines at end of files, always
+- **Must**: Code should be 100% related to the issue being solved. Anything unrelated should be moved into its own atomic PR
+- **Must**: Contain videos of before/after with light/dark mode and mobile/desktop represented 
+- Newlines at end of files
 
 ### Front-end
 
@@ -47,23 +36,18 @@ We don't assign issues to contributors until they have a history of contribution
 - Use UpperCamelCase for component file names (e.g., `ConversationList.tsx`)
 - Always use the latest version of TypeScript, React, and Next.js
 - Use sentence case headers and buttons, not title case (Add board is good, Add Board is bad)
-- Do not use `React.FC`. Use the following syntax: `const Component = ({ prop1, prop2 }: { prop1: string; prop2: number }) => { ... }`
-- When building UI, use existing components from `components/` when available: `Button`, `Input`, `DataTable`, `Placeholder`, `ComboBox`, `NumberInput`, `MutationButton`, `Dialog`, `Form` components, etc.
 - When creating new components using Shadcn, use the `canary` version over the `latest` version
 
 ### Back-end
 
 - Follow the existing code patterns
 - Use clear, descriptive variable names
-- Write TypeScript for all code
-- Use Prisma best practices for database operations
-- Any changes to the back-end database schema must be reflected in any existing frontend schema files for type safety
+- Write tests for new methods, controllers, etc
 
 ### Design / UX
 
 - Design for both light and dark mode
-- Consider mobile and desktop devices (small, medium, large, and extra large breakpoints)
-- Forms for adding new objects to the database should inherit values from the last object added to the table
+- Design for mobile and desktop
 
 ### Testing Guidelines
 
@@ -99,15 +83,6 @@ Or a more detailed disclosure:
 If no AI assistance was used, please state explicitly:
 
 > No AI was used to generate any of this code.
-
-Failure to disclose this is first and foremost rude to the human operators
-on the other end of the pull request, but it also makes it difficult to
-determine how much scrutiny to apply to the contribution.
-
-In a perfect world, AI assistance would produce equal or higher quality
-work than any human. That isn't the world we live in today, and in most cases
-it's generating slop. I say this despite being a fan of and using them
-successfully myself (with heavy supervision)!
 
 Please be respectful to maintainers and disclose AI assistance.
 
