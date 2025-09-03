@@ -6,9 +6,10 @@ Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, w
 
 ## 🚀 Our Projects
 
+- [Gumroad](https://github.com/antiwork/gumroad): Sell your stuff and see what sticks
+
 - [Flexile](https://github.com/antiwork/flexile): Contractor payments as easy as 1-2-3
 - [Gumboard](https://github.com/antiwork/gumboard): Keep on top of your team's to-dos
-- [Gumroad](https://github.com/antiwork/gumroad): Sell your stuff and see what sticks
 - [Helper](https://github.com/antiwork/helper): Stellar customer support
 - [Iffy](https://github.com/antiwork/iffy): Keep your website clean
 
