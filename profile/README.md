@@ -10,7 +10,7 @@ Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, w
 
 - [Flexile](https://github.com/antiwork/flexile): Contractor payments as easy as 1-2-3
 - [Gumboard](https://github.com/antiwork/gumboard): Keep on top of your team's to-dos
-- [Helper](https://github.com/antiwork/helper): Stellar customer support
+- [Helper](https://github.com/antiwork/helper): Integrated customer support
 - [Iffy](https://github.com/antiwork/iffy): Keep your website clean
 
 
