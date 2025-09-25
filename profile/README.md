@@ -12,6 +12,7 @@ Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, w
 - [Gumboard](https://github.com/antiwork/gumboard): Keep on top of your team's to-dos
 - [Helper](https://github.com/antiwork/helper): Integrated customer support
 - [Iffy](https://github.com/antiwork/iffy): Keep your website clean
+- [Small Bets](https://github.com/antiwork/smallbets): Community for small-time entrepreneurs
 
 
 ## 🌈 Contribution Guidelines
