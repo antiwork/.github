@@ -1,6 +1,6 @@
 # [Antiwork](https://antiwork.com)
 
-## 🙋‍♀️ On a mission to make work play.
+## Make work play.
 
 Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, we open-sourced everything - our entire suite of tools that helps run and scale Gumroad.
 
