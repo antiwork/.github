@@ -19,6 +19,9 @@ Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, w
 
 We love our community and welcome contributions!
 
+Please watch our [live streaming PR review sessions](https://www.youtube.com/@anti-work) in order to contribute.
+
 We reward bounties based on contributions. You can choose a % of it to take as stock options at our last 409a valuation.
 
 Looking for guidance? [Join our Antiwork OSS Telegram group](https://t.me/+vg31gHiNc3c0OThh)
+
