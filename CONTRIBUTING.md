@@ -6,11 +6,13 @@ That means no excessive capitalization (e.g HOW IS THIS GOING), multiple questio
 
 ## Issues
 
-We don't assign issues to contributors until they have a history of contributions to the project.
+We don't assign issues to contributors until they have a history of contributions to the project. Even then, assignments are rare.
 
 ## Pull Requests (code)
 
 Pull Requests should close open issues.
+
+Please include an AI disclosure as well as a confirmation you've watched our [PR live streaming videos](https://www.youtube.com/@anti-work).
 
 ### General best practices
 
