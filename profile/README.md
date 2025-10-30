@@ -23,5 +23,7 @@ Please watch our [live streaming PR review sessions](https://www.youtube.com/@an
 
 We reward bounties based on contributions. You can choose a % of it to take as stock options at our last 409a valuation.
 
+To ensure people only get paid for bug-free code, bounties may take up to 90 days to get paid.
+
 Looking for guidance? [Join our Antiwork OSS Telegram group](https://t.me/+vg31gHiNc3c0OThh)
 
