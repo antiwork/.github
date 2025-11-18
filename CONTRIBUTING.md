@@ -111,6 +111,8 @@ so long as it is limited to single keywords or short phrases.
 
 (Missing: specific model version, no task breakdown)
 
+**Don't** use AI to write overly long PR descriptions, as it's not respectful to human reviewers. All PR descriptions should be tight (every word/image counts) and human-written.
+
 ### No AI disclosure
 
 If no AI assistance was used, please state explicitly:
