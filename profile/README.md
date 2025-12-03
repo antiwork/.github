@@ -22,4 +22,4 @@ We reward bounties based on contributions. You can choose a % of it to take as s
 
 To ensure people only get paid for bug-free code, bounties may take up to 90 days to get paid. To request a bounty, email bounties@antiwork.com with your pull request link and the related issue details.
 
-Join our Telegram group [here](https://t.me/+EhFVHSsck2IzYWZh) for announcements and discussions.
+Join our [Telegram group](https://t.me/+EhFVHSsck2IzYWZh) for announcements and discussions.
