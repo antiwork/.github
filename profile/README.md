@@ -4,14 +4,6 @@
 
 Antiwork started with [Gumroad](https://github.com/antiwork/gumroad). In 2025, we open-sourced everything - our entire suite of tools that helps run and scale Gumroad.
 
-## 🚀 Our Projects
-
-We have many, but focus on these:
-
-- [Gumroad](https://github.com/antiwork/gumroad): Sell your stuff and see what sticks
-- [Small Bets](https://github.com/antiwork/smallbets): Community for small-time entrepreneurs
-
-
 ## 🌈 Contribution Guidelines
 
 We love our community and welcome contributions!
