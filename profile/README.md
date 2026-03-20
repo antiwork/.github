@@ -1,3 +1,3 @@
 # [Antiwork](https://antiwork.com)
 
-## Make work play.
+Make work play
