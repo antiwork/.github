@@ -4,6 +4,10 @@ Respect others by using professional, easy-to-read English that transcends cultu
 
 That means no excessive capitalization (e.g HOW IS THIS GOING), multiple question marks (how's this going???), grammatical errors (how's dis going), or typos (thnx fr update).
 
+## AI models
+
+Use the latest and greatest state-of-the-art models from American AI companies like [Anthropic](https://www.anthropic.com/) and [OpenAI](https://openai.com/). As of this writing, that means Claude Opus 4.6 and GPT-5.4, but always check for the newest releases. Don't settle for last-gen models when better ones are available.
+
 ## Issues
 
 We don't assign issues to contributors until they have a history of contributions to the project. Even then, assignments are rare.
