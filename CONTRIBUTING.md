@@ -30,7 +30,8 @@ Please include an AI disclosure as well as a confirmation you've watched our [PR
    - Don't worry about messy commits - we squash everything when merging to main
 - **Must**: Self-review your PR with explanatory comments for any non-intuitive or non-obvious changes to help reviewers understand your reasoning
 - **Must**: Code should be 100% related to the issue being solved. Anything unrelated should be moved into its own atomic PR
-- **Must**: Contain videos of before/after with light/dark mode and mobile/desktop represented 
+- **Must**: Contain videos of before/after with light/dark mode and mobile/desktop represented
+- **Must**: Even for changes with no user-facing impact, include a short video walking through the relevant existing functionality to demonstrate understanding of what the code does and confirm nothing broke
 - Newlines at end of files
 
 ### Front-end
